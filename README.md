@@ -1,3 +1,3 @@
-# Constitutional-abuse-of-the-day
+# Gove3nmental-failure-of-the-day
 
 A simple blog. WIP.
